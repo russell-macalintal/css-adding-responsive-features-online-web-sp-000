@@ -11,7 +11,7 @@
   }
 }
 
-@media screen and (width: 900px) {
+@media only screen and (width: 900px) {
   body {
     font-size: 85%;
   }
@@ -36,4 +36,8 @@
   }
 }
 
-@media only screen 
+@media only screen and (width: 750px) {
+  #navbar nav a {
+    font-size: 0.9em;
+  }
+}
