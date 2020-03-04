@@ -56,4 +56,8 @@
   .border-right {
     border-right: 0px;
   }
+
+  #details div {
+    height: auto;
+  }
 }
