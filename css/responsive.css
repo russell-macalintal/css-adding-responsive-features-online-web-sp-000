@@ -11,7 +11,7 @@
   }
 }
 
-@media only screen and (width: 900px) {
+@media screen and (width: 900px) {
   body {
     font-size: 85%;
   }
@@ -35,3 +35,5 @@
     column-count: 2;
   }
 }
+
+@media only screen 
